@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:iss_mir_egal/home/models/meal.dart';
 import 'package:iss_mir_egal/home/view/meals_overview_page.dart';
 import 'package:iss_mir_egal/home/view/profile_page.dart';
-import 'package:iss_mir_egal/home/widgets/meal_card.dart';
+
 
 class HomePage extends StatefulWidget {
   const HomePage({required this.meals, super.key});
